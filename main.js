@@ -107,9 +107,3 @@ app.listen(3000);
 //node.js가 가지고 있는 기능을 비슷한 것끼리 묶어놓은 것
 
 //main.js 파일이 바뀔 때는 node.js를 껐다 켜줘야 하는데 다른 파일(data)이 바뀔 때는 필요 없음.
-
-
-
-git remote add origin https://github.com/Alloboo/sanghwalcoding-Nodejs.git
-git branch -M main
-git push -u origin main
